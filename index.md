@@ -6,7 +6,7 @@ The interactive Jupyter notebooks below walk through the steps of how to downloa
 
 ### Jupyter Notebooks
 
-1. [Basic Safety Messages to Synthetic Trajectories](https://usdot-its-jpo-data-portal.github.io/CV-BSM-Visualization/githubpages/Basic%20Safety%20Messages%20to%20Synthetic%20Trajectories.html)
-1a.[Calculating Network Statistics](https://usdot-its-jpo-data-portal.github.io/CV-BSM-Visualization/githubpages/Basic%20Safety%20Messages%20Statistics.html)
-2. [Creating Visualizations from BSM-generated Synthetic Trajectories](https://usdot-its-jpo-data-portal.github.io/CV-BSM-Visualization/githubpages/Connected%20Vehicles%20Visualizations.html)
-2a. [Creating Charts for Network Statistics Overlay](https://usdot-its-jpo-data-portal.github.io/CV-BSM-Visualization/githubpages/Connected%20Vehicles%20Charts.html)
+1. [Basic Safety Messages to Synthetic Trajectories](https://usdot-its-jpo-data-portal.github.io/CV-BSM-Visualization/githubpages/Basic%20Safety%20Messages%20to%20Synthetic%20Trajectories.html)  
+1a.[Calculating Network Statistics](https://usdot-its-jpo-data-portal.github.io/CV-BSM-Visualization/githubpages/Basic%20Safety%20Messages%20Statistics.html)  
+2. [Creating Visualizations from BSM-generated Synthetic Trajectories](https://usdot-its-jpo-data-portal.github.io/CV-BSM-Visualization/githubpages/Connected%20Vehicles%20Visualizations.html)  
+2a. [Creating Charts for Network Statistics Overlay](https://usdot-its-jpo-data-portal.github.io/CV-BSM-Visualization/githubpages/Connected%20Vehicles%20Charts.html)  
