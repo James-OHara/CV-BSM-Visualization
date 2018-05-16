@@ -6,20 +6,7 @@ The interactive Jupyter notebooks below walk through the steps of how to downloa
 
 ### Jupyter Notebooks
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/usdot-its-jpo-data-portal/CV-BSM-Visualization/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [Basic Safety Messages to Synthetic Trajectories](https://usdot-its-jpo-data-portal.github.io/CV-BSM-Visualization/githubpages/Basic%20Safety%20Messages%20to%20Synthetic%20Trajectories.html)
+1a.[Calculating Network Statistics](https://usdot-its-jpo-data-portal.github.io/CV-BSM-Visualization/githubpages/Basic%20Safety%20Messages%20Statistics.html)
+2. [Creating Visualizations from BSM-generated Synthetic Trajectories](https://usdot-its-jpo-data-portal.github.io/CV-BSM-Visualization/githubpages/Connected%20Vehicles%20Visualizations.html)
+2a. [Creating Charts for Network Statistics Overlay](https://usdot-its-jpo-data-portal.github.io/CV-BSM-Visualization/githubpages/Connected%20Vehicles%20Charts.html)
