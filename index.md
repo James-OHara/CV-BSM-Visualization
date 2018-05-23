@@ -2,7 +2,7 @@
 
 This project is an example of how to use anonymized Basic Safety Messages in aggregate to visualize roadway conditions using Open Data provided by the United States Department of Transportation through the ITS Public Data Hub. The data used for this project was the Advanced Concept Message Development Basic Safety Messages available on [data.transportation.gov](https://data.transportation.gov/Automobiles/Advanced-Messaging-Concept-Development-Basic-Safet/eezi-v4pm). The video below shows the visualization in Google Earth, with hypothetical vehicle trajectories representing traffic over a defined route every five minutes. Routes increase in altitude as time increases, so that the viewer can quickly see how traffic dynamics changed over an entire rush hour. 
 
-[![Visualization Example](https://usdot-its-jpo-data-portal.github.io/CV-BSM-Visualization/examples/videopreview.png)](https://vimeo.com/270109984)
+[![Visualization Example](https://james-ohara.github.io/CV-BSM-Visualization/examples/videopreview.png)](https://vimeo.com/270109984)
 
 The interactive Jupyter notebooks below walk through the steps of how to download the time-filtered Basic Safety Messages through the Socrata API, aggregate them into hypothetical vehicle trajectories, write the hypothetical vehicle trajectories to KML to be visualized in Google Earth and optionally creating additional network statistics as an overlay. 
 
