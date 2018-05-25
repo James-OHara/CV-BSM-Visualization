@@ -1,0 +1,3 @@
+Key contributors to the development of the Connected Vehicle Basic Safety Message Visualization code base include: James O'Hara, Rob Raheb, Scott James, Jim Larkin and Janet Fraser from Noblis. 
+
+Data courtesy of the Advanced Concept Message Development project led by Loren Stowe of VTTI and provided by the United States Department of Transportation https://data.transportation.gov/Automobiles/Advanced-Messaging-Concept-Development-Basic-Safet/eezi-v4pm. 

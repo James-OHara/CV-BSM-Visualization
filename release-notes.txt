@@ -1,0 +1,11 @@
+Connected Vehicle Basic Safety Message Visualization, Version 1.0, May 2018
+
+System Requirements
+--------------------
+Windows, Mac or Linux
+Python 3.6.5
+Google Earth Note Google Earth is only needed if you plan to also do the visualization within Google Earth.
+
+Installation 
+------------
+https://james-ohara.github.io/CV-BSM-Visualization/#getting-started
